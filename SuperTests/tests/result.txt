@@ -1,0 +1,11 @@
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; Ressource has a deprecated constructor in D:\wamp64\www\SuperTests\classes\Ressource.php on line 3
+PHPUnit 5.2.0 by Sebastian Bergmann and contributors.
+
+Error:         No code coverage driver is available
+
+......                                                             6 / 6 (100%)
+
+Time: 101 ms, Memory: 8.00Mb
+
+OK (6 tests, 11 assertions)

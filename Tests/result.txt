@@ -1,0 +1,82 @@
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; Ressource has a deprecated constructor in D:\wamp64\www\Tests\Ressource.php on line 3
+PHPUnit 5.2.0 by Sebastian Bergmann and contributors.
+
+Warning: mkdir(): Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 62
+
+Warning: fopen(html/result-D:\wamp64\www\Tests\Ressource.phpTest.html): failed to open stream: Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 65
+<html><body>
+<h2 id="RessourceTest">Ressource</h2><ul>......                                                             6 / 6 (100%)<li>Create ressource</li><li>Id</li><li>Id type</li><li>Nom</li><li>Quantite base</li><li>Stock base</li></ul></body></html>
+
+Time: 108 ms, Memory: 8.00Mb
+
+OK (6 tests, 11 assertions)
+Cannot open file "D:\wamp64\www\Tests\RessourceTestTest.php".
+
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; Ressource has a deprecated constructor in D:\wamp64\www\Tests\Ressource.php on line 3
+PHPUnit 5.2.0 by Sebastian Bergmann and contributors.
+
+Warning: mkdir(): Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 62
+
+Warning: fopen(html/result-D:\wamp64\www\Tests\Ressource.phpTest.html): failed to open stream: Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 65
+<html><body>
+<h2 id="RessourceTest">Ressource</h2><ul>......                                                             6 / 6 (100%)<li>Create ressource</li><li>Id</li><li>Id type</li><li>Nom</li><li>Quantite base</li><li>Stock base</li></ul></body></html>
+
+Time: 109 ms, Memory: 8.00Mb
+
+OK (6 tests, 11 assertions)
+Cannot open file "D:\wamp64\www\Tests\RessourceTestTest.php".
+
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; Ressource has a deprecated constructor in D:\wamp64\www\Tests\Ressource.php on line 3
+PHPUnit 5.2.0 by Sebastian Bergmann and contributors.
+
+Warning: mkdir(): Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 62
+
+Warning: fopen(html/result-D:\wamp64\www\Tests\Ressource.phpTest.html): failed to open stream: Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 65
+<html><body>
+<h2 id="RessourceTest">Ressource</h2><ul>......                                                             6 / 6 (100%)<li>Create ressource</li><li>Id</li><li>Id type</li><li>Nom</li><li>Quantite base</li><li>Stock base</li></ul></body></html>
+
+Time: 111 ms, Memory: 8.00Mb
+
+OK (6 tests, 11 assertions)
+Cannot open file "D:\wamp64\www\Tests\RessourceTestTest.php".
+
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; Ressource has a deprecated constructor in D:\wamp64\www\Tests\Ressource.php on line 3
+PHPUnit 5.2.0 by Sebastian Bergmann and contributors.
+
+Warning: mkdir(): Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 62
+
+Warning: fopen(html/result-D:\wamp64\www\Tests\Ressource.phpTest.html): failed to open stream: Invalid argument in phar://C:/bin/phpunit.phar/phpunit/Util/Printer.php on line 65
+<html><body>
+<h2 id="RessourceTest">Ressource</h2><ul>......                                                             6 / 6 (100%)<li>Create ressource</li><li>Id</li><li>Id type</li><li>Nom</li><li>Quantite base</li><li>Stock base</li></ul></body></html>
+
+Time: 112 ms, Memory: 8.00Mb
+
+OK (6 tests, 11 assertions)
+Cannot open file "D:\wamp64\www\Tests\RessourceTestTest.php".
+
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\Tests\Ressource.php --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\Tests\RessourceTest.php --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\classesRessource --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\classesRessourceTest --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
+phpunit --bootstrap D:\wamp64\www\classes\Ressource --testdox-html html/result-RessourceTest.html tests/RessourceTest 
+phpunit --bootstrap D:\wamp64\www\classes\RessourceTest --testdox-html html/result-RessourceTestTest.html tests/RessourceTestTest 
